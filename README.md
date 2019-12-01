@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://neharichi.github.io/improved-portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
