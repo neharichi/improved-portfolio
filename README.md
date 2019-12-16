@@ -1,4 +1,4 @@
-# [Neha Singh - Portfolio)
+# Neha Singh - Portfolio
 
 This is my portfolio. It has list of all the projects which I have completed for my cousework at UCLA.
 
